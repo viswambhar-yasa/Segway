@@ -1,6 +1,9 @@
 # Segway
 A Segway PT - short for Segway Personal Transporter - is a two-wheeled, self-balancing personal transporter. We simulate a simplified Segway model of inverse pendulum on a moving platform.
-We did a linear, non-linear analysis and compared both of them.
+
+<p align="center">
+<img src="https://github.com/viswambhar-yasa/Segway/raw/master/Annotation 2020-09-06 171644.png" />
+</p>
 
 We obtain a system of coupled nonlinear ordinary differential equations of
 second order.
