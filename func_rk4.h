@@ -1,5 +1,4 @@
 /* Introduction to Scientific Programming, Programming project, 2019/2020 */
-/* (c) Matthias Braendel, 2019 */
 /* func_rk4.h */
 
 void f_rk4( std::vector< std::vector<double> >          &y,
